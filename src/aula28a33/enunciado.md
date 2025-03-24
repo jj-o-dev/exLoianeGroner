@@ -1,4 +1,4 @@
-### Exercícios de Java - Aulas 28 a 33-00 - Construtores, encapsulamento e sobrecarga  
+### Exercícios de Java - Aulas 28 a 33 - 00 - Construtores, encapsulamento e sobrecarga  
 
 Reescreva os seguintes exercícios, criando todos os atributos do tipo privado,  
 métodos getters e setters e construtores. Os métodos que serão utilizados pela  
