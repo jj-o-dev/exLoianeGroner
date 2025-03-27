@@ -1,4 +1,4 @@
-package aula36.ex1;
+package aula36.ex1.entities;
 
 public class Contato {
     private String nome;
